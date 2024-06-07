@@ -1,42 +1,42 @@
 @font-face {
     font-family: 'TT Lakes';
-    src: url('/fonts/TTLakes-Regular.eot');
+    src: url('TTLakes-Regular.eot');
     src: local('TT Lakes Regular'), local('TTLakes-Regular'),
-        url('/fonts/TTLakes-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/TTLakes-Regular.woff') format('woff'),
-        url('/fonts/TTLakes-Regular.ttf') format('truetype');
+        url('TTLakes-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TTLakes-Regular.woff') format('woff'),
+        url('TTLakes-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'TT bold';
-    src: url('/fonts/TTLakes-DemiBold.eot');
+    src: url('TTLakes-DemiBold.eot');
     src: local('TT Lakes DemiBold'), local('TTLakes-DemiBold'),
-        url('/fonts/TTLakes-DemiBold.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/TTLakes-DemiBold.woff') format('woff'),
-        url('/fonts/TTLakes-DemiBold.ttf') format('truetype');
+        url('TTLakes-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('TTLakes-DemiBold.woff') format('woff'),
+        url('TTLakes-DemiBold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
   
 .brand__container-Lenovo{
-    background: #FFFFFF url('images/Bitmap.png') no-repeat 16px 50%;}
+    background: #FFFFFF url('Bitmap.png') no-repeat 16px 50%;}
 .brand__container-Samsung{
-    background: #FFFFFF url('images/Bitmapsams.png') no-repeat 16px 50%;}
+    background: #FFFFFF url('Bitmapsams.png') no-repeat 16px 50%;}
 .brand__container-Apple{
-    background: #FFFFFF url('images/Bitmapapple.png') no-repeat 16px 50%;}
+    background: #FFFFFF url('Bitmapapple.png') no-repeat 16px 50%;}
 .brand__container-ViewSonic{
-    background: #FFFFFF url('images/Bitmapviewsonic.png') no-repeat 16px 50%;}
+    background: #FFFFFF url('Bitmapviewsonic.png') no-repeat 16px 50%;}
 .brand__container-Bosch{
-    background: #FFFFFF url('images/Bitmapbosch.png') no-repeat 16px 50%;}
+    background: #FFFFFF url('Bitmapbosch.png') no-repeat 16px 50%;}
 .brand__container-HP{
-    background: #FFFFFF url('images/Bitmaphp.png') no-repeat 16px 50%;}
+    background: #FFFFFF url('Bitmaphp.png') no-repeat 16px 50%;}
 .brand__container-Acer{
-    background: #FFFFFF url('images/Bitmapacer.png') no-repeat 16px 50%;}
+    background: #FFFFFF url('Bitmapacer.png') no-repeat 16px 50%;}
 .brand__container-Sony{
-    background: #FFFFFF url('images/Bitmapsony.png') no-repeat 16px 50%;}        
+    background: #FFFFFF url('Bitmapsony.png') no-repeat 16px 50%;}        
 
 #showLess-button{
     transform: rotate(180deg);
@@ -104,7 +104,7 @@
         width: 40px;
         height: 40px;
       display: block;
-        background: url('images/go.png') no-repeat 50% 50%;
+        background: url('go.png') no-repeat 50% 50%;
         border: 0;
         
     }
@@ -170,7 +170,7 @@ margin: 0;}
             
         }
         #showMore-button, #showLess-button{
-            background: url('images/expand.png') no-repeat 50% 50%;
+            background: url('expand.png') no-repeat 50% 50%;
             border: 0;
             position: relative;
             top: 6px;
@@ -210,7 +210,7 @@ margin: 0;}
             width: 40px;
             height: 40px;
           display: block;
-            background: url('images/go.png') no-repeat 50% 50%;
+            background: url('go.png') no-repeat 50% 50%;
             border: 0;
             
         }
@@ -258,7 +258,7 @@ margin: 0;}
             
         }
         #showMore-button, #showLess-button{
-            background: url('images/expand.png') no-repeat 50% 50%;
+            background: url('expand.png') no-repeat 50% 50%;
             border: 0;
             position: relative;
             top: 6px;
@@ -298,7 +298,7 @@ margin: 0;}
             width: 40px;
             height: 40px;
           display: block;
-            background: url('images/go.png') no-repeat 50% 50%;
+            background: url('go.png') no-repeat 50% 50%;
             border: 0;
             
         }
